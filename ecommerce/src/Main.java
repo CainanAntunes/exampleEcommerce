@@ -5,6 +5,7 @@ public class Main {
         // Produtos cadastrados no sistema
         ArrayList <Product> products = new ArrayList<Product>();
         // Usuários cadastrados no sistema
+        // Polimorfismo: a lista de usuários pode conter cliente e gerentes
         ArrayList <User> users = new ArrayList<User>();
 
         // Cadastra um gerente
